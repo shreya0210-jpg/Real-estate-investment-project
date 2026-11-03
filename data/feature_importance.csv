@@ -1,0 +1,370 @@
+Feature,Importance
+Area_Per_BHK,0.06954738696261273
+Size_in_SqFt,0.06494695740471353
+Total_Floors,0.051497007670285755
+Floor_No,0.05130032233130394
+Year_Built,0.049232222572967915
+Age_of_Property,0.0466367345983633
+Nearby_Hospitals,0.04277259617870276
+Nearby_Schools,0.03662309311976983
+BHK,0.03305970489577062
+Facing_North,0.016313275290734428
+Furnished_Status_Semi-furnished,0.016134751845726998
+Availability_Status_Under_Construction,0.015163831430448211
+Facing_South,0.014918202239196352
+Parking_Space_Yes,0.014754666365383497
+Security_Yes,0.01443955617860215
+Public_Transport_Accessibility_Medium,0.01351366996468158
+Owner_Type_Builder,0.013343487596791525
+Property_Type_Villa,0.013138313704350207
+Owner_Type_Owner,0.0128822917719849
+Facing_West,0.012816341803706017
+Public_Transport_Accessibility_Low,0.01202999628923344
+Property_Type_Independent House,0.011361812769011574
+State_Karnataka,0.011109421133638834
+Furnished_Status_Unfurnished,0.01069722061682958
+Property_Age_Category_Old,0.010525240398252145
+Property_Age_Category_Very Old,0.008708990884439393
+State_Tamil Nadu,0.008500201655994345
+State_Maharashtra,0.008133298536595853
+Property_Age_Category_New,0.007951761225675322
+State_Kerala,0.007492614415089258
+State_Chhattisgarh,0.007129101139322244
+State_Rajasthan,0.007065365685320936
+State_Uttar Pradesh,0.0068698640015701085
+State_Odisha,0.0066921656248085815
+State_Bihar,0.006232911259637886
+State_Assam,0.006157031293836242
+State_Madhya Pradesh,0.006138154402339358
+State_Telangana,0.005888028245530006
+State_Haryana,0.005715258130483268
+State_West Bengal,0.005317729870445385
+State_Uttarakhand,0.005315928402220706
+State_Punjab,0.005212029523660197
+State_Jharkhand,0.005053364875450176
+State_Gujarat,0.004624081232607992
+State_Delhi,0.0043132668875909014
+"Amenities_Garden, Gym, Clubhouse, Pool",0.0032385060248585527
+"Amenities_Clubhouse, Garden, Pool, Gym, Playground",0.0030347832113745165
+"Amenities_Pool, Gym, Clubhouse, Garden",0.002880851434752128
+"Amenities_Garden, Pool, Gym",0.0024906237202300314
+"Amenities_Playground, Pool, Garden",0.0024873033298654424
+"Amenities_Playground, Gym",0.002355023810392557
+"Amenities_Playground, Gym, Clubhouse, Pool",0.002290106608873072
+"Amenities_Playground, Gym, Clubhouse, Garden, Pool",0.002246847430970927
+"Amenities_Gym, Clubhouse, Garden, Playground",0.0022265927000126003
+"Amenities_Clubhouse, Pool, Gym, Garden",0.0021917352227372898
+"Amenities_Garden, Playground, Pool",0.00218492160220076
+"Amenities_Playground, Pool, Clubhouse, Gym, Garden",0.0021297058122218084
+"Amenities_Gym, Garden, Pool, Clubhouse, Playground",0.002117258890206992
+"Amenities_Pool, Playground, Clubhouse",0.0020277219494701003
+"Amenities_Garden, Pool, Gym, Playground",0.0019851651772795622
+"Amenities_Pool, Garden, Gym, Clubhouse",0.0019769010183901484
+"Amenities_Playground, Garden",0.001949097337455891
+"Amenities_Playground, Clubhouse, Pool, Garden, Gym",0.001898236685753988
+"Amenities_Clubhouse, Gym, Playground, Pool, Garden",0.0018474125370829778
+"Amenities_Clubhouse, Pool, Gym, Playground",0.0018470771902134434
+"Amenities_Playground, Clubhouse, Pool, Gym, Garden",0.0018228708086917094
+"Amenities_Playground, Clubhouse, Garden, Pool",0.0017991735098990922
+"Amenities_Gym, Clubhouse, Garden",0.0017971991136786103
+"Amenities_Garden, Pool",0.0017769032298568684
+"Amenities_Gym, Playground, Clubhouse",0.0017268484614943198
+"Amenities_Clubhouse, Playground, Pool, Gym",0.001724803537443578
+"Amenities_Garden, Pool, Clubhouse, Gym, Playground",0.0017135625100989419
+"Amenities_Playground, Clubhouse, Pool, Garden",0.0016926057023338259
+"Amenities_Gym, Clubhouse, Pool, Garden, Playground",0.00167975351410936
+"Amenities_Playground, Pool, Garden, Clubhouse",0.001659190960577632
+"Amenities_Playground, Gym, Garden, Pool, Clubhouse",0.0016005551299730966
+"Amenities_Garden, Gym, Playground, Pool",0.0015984837805753985
+"Amenities_Playground, Garden, Clubhouse, Gym",0.0015582576171572049
+"Amenities_Pool, Gym, Playground, Clubhouse, Garden",0.0015392766319664096
+"Amenities_Playground, Clubhouse, Gym",0.00153552923249392
+"Amenities_Playground, Pool, Clubhouse, Garden, Gym",0.0015221234890609389
+"Amenities_Playground, Pool, Clubhouse, Gym",0.0014949004479901374
+"Amenities_Clubhouse, Pool",0.0014853106679896676
+"Amenities_Garden, Playground",0.0014762987030821069
+"Amenities_Playground, Clubhouse, Garden",0.001474694683201126
+"Amenities_Clubhouse, Pool, Gym, Garden, Playground",0.0014276899761903991
+"Amenities_Pool, Garden",0.0014139813681763288
+"Amenities_Pool, Garden, Playground, Gym, Clubhouse",0.0014096420524571693
+"Amenities_Gym, Clubhouse, Pool, Playground, Garden",0.0014052792415719737
+"Amenities_Gym, Clubhouse, Garden, Pool, Playground",0.0013883891274707682
+"Amenities_Pool, Clubhouse, Playground, Gym, Garden",0.0013872216890443208
+"Amenities_Clubhouse, Garden, Playground",0.0013833950736539514
+"Amenities_Pool, Clubhouse",0.0013576072036551924
+"Amenities_Playground, Pool, Gym, Garden, Clubhouse",0.0013440802433171816
+"Amenities_Garden, Gym, Clubhouse, Pool, Playground",0.0013325537466724452
+"Amenities_Garden, Clubhouse, Playground, Gym",0.001315830390411431
+"Amenities_Pool, Clubhouse, Playground, Gym",0.001277982670499823
+"Amenities_Garden, Pool, Clubhouse, Gym",0.001266308601129205
+"Amenities_Clubhouse, Pool, Garden, Playground",0.001253863682117436
+"Amenities_Gym, Playground, Clubhouse, Pool, Garden",0.001253763721815931
+"Amenities_Pool, Gym, Playground, Clubhouse",0.0012415798896304377
+"Amenities_Pool, Gym, Clubhouse, Playground, Garden",0.0012360476423843136
+"Amenities_Playground, Gym, Garden, Clubhouse, Pool",0.0012187563750764986
+Amenities_Playground,0.001195838090632962
+"Amenities_Playground, Gym, Pool, Garden, Clubhouse",0.001148685209949239
+"Amenities_Playground, Gym, Garden, Clubhouse",0.0011454667406950642
+"Amenities_Clubhouse, Gym, Pool",0.001134511991585032
+"Amenities_Gym, Playground, Pool, Garden",0.0011274107098109489
+"Amenities_Clubhouse, Gym, Playground, Garden",0.0011208952452792448
+"Amenities_Playground, Clubhouse, Pool, Gym",0.0011050699420352753
+"Amenities_Clubhouse, Gym, Pool, Playground",0.0010949119717786975
+"Amenities_Pool, Playground, Clubhouse, Gym",0.0010941430492592626
+"Amenities_Gym, Playground, Garden, Clubhouse",0.0010887110534208316
+"Amenities_Clubhouse, Pool, Playground",0.00108429134386603
+"Amenities_Garden, Playground, Pool, Gym, Clubhouse",0.0010757766135971985
+"Amenities_Pool, Garden, Playground, Clubhouse, Gym",0.0010645118437104585
+"Amenities_Pool, Playground, Garden, Gym, Clubhouse",0.001057837418803212
+"Amenities_Gym, Playground, Clubhouse, Pool",0.0010574752820660597
+"Amenities_Clubhouse, Playground, Gym",0.001056800874801053
+"Amenities_Playground, Pool, Clubhouse, Garden",0.0010536503760007047
+"Amenities_Playground, Garden, Clubhouse, Pool, Gym",0.001028544380490902
+"Amenities_Playground, Garden, Pool, Clubhouse",0.001017016354159743
+"Amenities_Gym, Playground, Clubhouse, Garden, Pool",0.0010119774509163768
+"Amenities_Pool, Gym, Playground, Garden, Clubhouse",0.0010093191451039968
+"Amenities_Clubhouse, Playground, Garden, Gym, Pool",0.0009752203589072186
+"Amenities_Playground, Garden, Gym, Clubhouse",0.0009750559930594372
+"Amenities_Clubhouse, Gym, Garden, Pool, Playground",0.000975037225886978
+"Amenities_Playground, Clubhouse, Garden, Pool, Gym",0.0009707822164438075
+"Amenities_Garden, Pool, Clubhouse, Playground",0.0009464856870187334
+"Amenities_Clubhouse, Garden, Pool",0.0009458959144228604
+"Amenities_Garden, Clubhouse, Gym, Pool, Playground",0.0009431758453821675
+"Amenities_Playground, Gym, Clubhouse, Garden",0.000938566454919441
+"Amenities_Garden, Playground, Clubhouse, Gym, Pool",0.000934850475855424
+"Amenities_Pool, Garden, Playground",0.0009278823469669794
+"Amenities_Gym, Pool, Playground, Clubhouse, Garden",0.0009240756483876464
+"Amenities_Clubhouse, Gym, Garden, Playground, Pool",0.0009225478965710146
+"Amenities_Pool, Gym, Clubhouse",0.0009118814638937192
+"Amenities_Clubhouse, Pool, Garden",0.0009107052780570636
+"Amenities_Pool, Playground, Garden, Clubhouse",0.0009102175999488234
+"Amenities_Gym, Garden",0.0009029146055602143
+"Amenities_Clubhouse, Garden, Gym, Playground, Pool",0.0009004778891018664
+"Amenities_Gym, Pool, Playground",0.0008945677669732904
+"Amenities_Gym, Clubhouse",0.00089167271712444
+"Amenities_Pool, Clubhouse, Playground, Garden",0.000875230090753198
+"Amenities_Pool, Gym",0.00087494303160837
+"Amenities_Clubhouse, Pool, Playground, Garden, Gym",0.0008615082636544648
+"Amenities_Playground, Garden, Pool, Gym, Clubhouse",0.000855824720175102
+"Amenities_Garden, Clubhouse, Playground, Gym, Pool",0.0008487424491287262
+"Amenities_Garden, Clubhouse, Pool",0.0008349215247818549
+"Amenities_Gym, Playground, Pool, Clubhouse",0.0008293861713505135
+"Amenities_Pool, Clubhouse, Gym",0.0008282489596027077
+"Amenities_Gym, Pool, Clubhouse, Garden, Playground",0.0008257824941775816
+"Amenities_Clubhouse, Pool, Playground, Gym, Garden",0.000823106723623403
+"Amenities_Garden, Clubhouse, Pool, Gym, Playground",0.0008171863893209213
+"Amenities_Pool, Garden, Clubhouse",0.0008020578629913608
+"Amenities_Gym, Playground, Clubhouse, Garden",0.0007983868719967223
+"Amenities_Gym, Clubhouse, Pool",0.0007967413079140041
+"Amenities_Playground, Garden, Pool, Clubhouse, Gym",0.0007874384327690822
+"Amenities_Clubhouse, Pool, Gym",0.0007873615040165283
+"Amenities_Pool, Playground, Gym, Garden, Clubhouse",0.000782542654188657
+"Amenities_Garden, Gym, Clubhouse",0.0007769094796837907
+"Amenities_Garden, Playground, Pool, Clubhouse",0.0007660294838495753
+"Amenities_Gym, Playground, Garden, Pool",0.0007447822193457698
+"Amenities_Garden, Gym, Clubhouse, Playground, Pool",0.0007348033325552046
+"Amenities_Clubhouse, Garden",0.0007325373993109427
+"Amenities_Pool, Clubhouse, Garden, Playground",0.0007281864829317931
+"Amenities_Pool, Gym, Clubhouse, Playground",0.0007226960336384738
+"Amenities_Gym, Playground, Pool",0.0007056959311267999
+"Amenities_Pool, Garden, Gym",0.0007012367445853194
+"Amenities_Playground, Clubhouse, Gym, Pool, Garden",0.0006985975301753017
+"Amenities_Garden, Gym",0.0006878319236013274
+"Amenities_Gym, Garden, Pool, Clubhouse",0.0006772194153578695
+"Amenities_Pool, Gym, Garden, Clubhouse",0.0006762598812451495
+"Amenities_Pool, Garden, Clubhouse, Gym, Playground",0.0006756865963110868
+"Amenities_Pool, Clubhouse, Garden",0.0006748587421244196
+"Amenities_Garden, Playground, Gym, Clubhouse, Pool",0.000673101875375276
+"Amenities_Garden, Clubhouse, Gym, Playground",0.0006730560295390391
+"Amenities_Clubhouse, Garden, Pool, Playground",0.0006688771294481555
+"Amenities_Pool, Clubhouse, Playground",0.0006601552506168476
+"Amenities_Clubhouse, Playground, Garden, Pool",0.000646961739598156
+"Amenities_Playground, Garden, Pool",0.0006412312785883076
+"Amenities_Pool, Playground, Gym, Clubhouse, Garden",0.0006150032133875839
+"Amenities_Gym, Playground, Garden, Pool, Clubhouse",0.0005938670397285957
+"Amenities_Gym, Clubhouse, Garden, Playground, Pool",0.00059296463242188
+"Amenities_Playground, Garden, Gym, Clubhouse, Pool",0.0005897248408164057
+"Amenities_Gym, Pool, Garden, Clubhouse",0.0005864199897620877
+"Amenities_Playground, Clubhouse, Pool",0.0005842363699774727
+"Amenities_Garden, Gym, Playground, Clubhouse, Pool",0.0005809910301113049
+"Amenities_Garden, Pool, Clubhouse",0.0005679778218753235
+"Amenities_Garden, Playground, Pool, Gym",0.0005649994392127177
+"Amenities_Clubhouse, Pool, Garden, Playground, Gym",0.0005643877316569171
+"Amenities_Gym, Pool, Playground, Garden",0.0005577813019099513
+"Amenities_Pool, Clubhouse, Garden, Playground, Gym",0.0005575485223563629
+"Amenities_Pool, Playground, Garden, Clubhouse, Gym",0.00055124949808828
+"Amenities_Playground, Gym, Garden, Pool",0.000549666150513794
+"Amenities_Pool, Playground, Garden",0.000544871944375426
+"Amenities_Gym, Garden, Playground",0.0005404342497315445
+"Amenities_Gym, Garden, Playground, Pool",0.0005294165351408628
+"Amenities_Clubhouse, Garden, Gym",0.0005275875996974034
+"Amenities_Clubhouse, Garden, Pool, Playground, Gym",0.0005165682557577458
+"Amenities_Playground, Pool, Garden, Gym",0.0005147135735542984
+"Amenities_Clubhouse, Gym, Playground",0.0005108847754907743
+"Amenities_Clubhouse, Playground, Gym, Garden, Pool",0.0004996376483133839
+"Amenities_Pool, Garden, Playground, Clubhouse",0.0004928467456178675
+"Amenities_Playground, Pool, Gym, Garden",0.00048507200424248426
+"Amenities_Garden, Gym, Pool",0.0004800911547055927
+"Amenities_Playground, Clubhouse",0.0004753929193168908
+"Amenities_Pool, Playground, Gym, Clubhouse",0.0004752478470031108
+"Amenities_Garden, Clubhouse, Pool, Playground",0.00047427293235673964
+"Amenities_Pool, Garden, Gym, Clubhouse, Playground",0.0004699856097374863
+"Amenities_Garden, Pool, Gym, Clubhouse",0.000457452161361728
+"Amenities_Garden, Gym, Pool, Playground, Clubhouse",0.0004512767196058723
+"Amenities_Clubhouse, Playground, Gym, Pool",0.00044955860359658804
+"Amenities_Playground, Garden, Pool, Gym",0.0004398373863993942
+"Amenities_Garden, Pool, Playground, Gym",0.000439804121795709
+"Amenities_Playground, Clubhouse, Garden, Gym",0.0004397826335727699
+"Amenities_Pool, Gym, Clubhouse, Garden, Playground",0.000427748421421763
+"Amenities_Garden, Pool, Playground, Clubhouse",0.0004272711515405143
+"Amenities_Playground, Pool, Gym, Clubhouse, Garden",0.0004218318392012971
+"Amenities_Clubhouse, Garden, Gym, Pool, Playground",0.00042054320301603573
+Amenities_Garden,0.00041065588608095503
+"Amenities_Garden, Pool, Gym, Clubhouse, Playground",0.0004013699421005931
+"Amenities_Playground, Clubhouse, Garden, Gym, Pool",0.00040031243187136235
+"Amenities_Clubhouse, Gym, Garden",0.00039803083621951557
+"Amenities_Pool, Gym, Garden",0.0003930860267319156
+"Amenities_Playground, Pool",0.00039246867931982244
+"Amenities_Clubhouse, Playground",0.0003885372824417884
+"Amenities_Pool, Gym, Playground, Garden",0.00038596074240607463
+"Amenities_Gym, Clubhouse, Pool, Garden",0.00038392324922899567
+"Amenities_Playground, Gym, Pool, Clubhouse",0.0003820059276047531
+"Amenities_Gym, Garden, Clubhouse, Playground",0.0003766908495172013
+"Amenities_Pool, Garden, Clubhouse, Playground",0.00037501627328234455
+"Amenities_Clubhouse, Pool, Playground, Gym",0.00037485895474578725
+"Amenities_Clubhouse, Gym, Pool, Garden",0.00036836020386538527
+"Amenities_Garden, Playground, Clubhouse, Pool, Gym",0.0003671787920471643
+"Amenities_Pool, Playground, Clubhouse, Garden, Gym",0.0003649810950018601
+"Amenities_Garden, Gym, Playground, Clubhouse",0.0003560210442465485
+"Amenities_Clubhouse, Garden, Playground, Pool",0.00035314211793140734
+"Amenities_Clubhouse, Gym, Playground, Pool",0.0003483145166192321
+"Amenities_Garden, Clubhouse, Gym",0.00034467407759903137
+"Amenities_Playground, Gym, Pool, Clubhouse, Garden",0.00033980844624490153
+"Amenities_Garden, Gym, Pool, Playground",0.00033307081301041727
+"Amenities_Clubhouse, Gym, Garden, Playground",0.0003273698798031117
+"Amenities_Gym, Clubhouse, Playground, Garden",0.00032621612181500594
+"Amenities_Gym, Playground",0.00032263442836763734
+"Amenities_Garden, Clubhouse, Playground",0.0003221855955628581
+"Amenities_Garden, Playground, Gym",0.00031976734800862207
+"Amenities_Gym, Pool, Playground, Clubhouse",0.00031833418405043313
+"Amenities_Clubhouse, Playground, Pool",0.0003165302092854799
+"Amenities_Clubhouse, Garden, Gym, Playground",0.00031371126890941074
+"Amenities_Playground, Gym, Clubhouse",0.00031337429758105447
+"Amenities_Garden, Playground, Gym, Clubhouse",0.0003107979931680287
+"Amenities_Pool, Clubhouse, Garden, Gym",0.00030062833910494914
+"Amenities_Gym, Pool, Playground, Garden, Clubhouse",0.00030037937985471716
+"Amenities_Playground, Clubhouse, Gym, Garden",0.0003000371187248684
+"Amenities_Pool, Playground, Gym",0.0002985903207050957
+"Amenities_Pool, Gym, Garden, Clubhouse, Playground",0.00029815334670456854
+"Amenities_Gym, Garden, Pool, Playground, Clubhouse",0.0002963038820677246
+"Amenities_Pool, Playground, Clubhouse, Gym, Garden",0.0002952916889555477
+"Amenities_Garden, Playground, Gym, Pool",0.0002908174447432812
+"Amenities_Playground, Clubhouse, Gym, Pool",0.0002698912452017698
+"Amenities_Gym, Garden, Clubhouse, Pool, Playground",0.0002631896810151559
+"Amenities_Gym, Garden, Playground, Pool, Clubhouse",0.00026153875450666924
+"Amenities_Garden, Pool, Gym, Playground, Clubhouse",0.0002565374421872698
+"Amenities_Gym, Pool, Clubhouse, Playground, Garden",0.0002547797838736482
+"Amenities_Gym, Garden, Playground, Clubhouse, Pool",0.0002482291025140289
+"Amenities_Gym, Pool, Clubhouse",0.0002467728241279252
+"Amenities_Garden, Clubhouse, Gym, Playground, Pool",0.00024540591657923176
+"Amenities_Pool, Garden, Playground, Gym",0.00024537465022963795
+"Amenities_Gym, Pool, Garden, Clubhouse, Playground",0.0002439438827152816
+"Amenities_Gym, Clubhouse, Playground, Pool, Garden",0.00024128979887356653
+"Amenities_Garden, Playground, Clubhouse, Pool",0.0002370842854473038
+"Amenities_Garden, Pool, Playground",0.00023227952119896978
+"Amenities_Garden, Gym, Playground, Pool, Clubhouse",0.0002284004721096845
+"Amenities_Gym, Pool, Garden, Playground",0.00022362901948203535
+"Amenities_Gym, Pool",0.00021983135026188864
+"Amenities_Clubhouse, Playground, Garden",0.00021883506281350566
+"Amenities_Garden, Playground, Clubhouse",0.0002184834418555541
+"Amenities_Gym, Playground, Garden, Clubhouse, Pool",0.00021453239568847425
+"Amenities_Gym, Garden, Pool",0.00021412667594767647
+"Amenities_Pool, Garden, Gym, Playground",0.0002114290581816693
+"Amenities_Clubhouse, Playground, Garden, Pool, Gym",0.00021067112226353177
+Amenities_Pool,0.0002023462706589782
+"Amenities_Playground, Pool, Gym",0.00020179628187385004
+"Amenities_Garden, Playground, Gym, Pool, Clubhouse",0.00019345922070600988
+"Amenities_Pool, Clubhouse, Gym, Garden",0.00019094387665691986
+"Amenities_Pool, Clubhouse, Gym, Garden, Playground",0.00018415300996948942
+"Amenities_Playground, Garden, Clubhouse",0.00018112752038722675
+"Amenities_Garden, Playground, Pool, Clubhouse, Gym",0.00017730043753386016
+"Amenities_Playground, Gym, Pool, Garden",0.00017057407782831925
+"Amenities_Pool, Playground, Gym, Garden",0.00016421114715969975
+"Amenities_Gym, Garden, Pool, Playground",0.00015345278635262114
+"Amenities_Gym, Playground, Pool, Clubhouse, Garden",0.00013887354815998054
+"Amenities_Garden, Clubhouse",0.00013483141180816748
+"Amenities_Gym, Pool, Clubhouse, Playground",0.00012394911067875204
+"Amenities_Clubhouse, Garden, Gym, Pool",0.00010700585716698604
+"Amenities_Clubhouse, Pool, Garden, Gym",0.00010629558433813667
+"Amenities_Gym, Pool, Garden, Playground, Clubhouse",6.655649232475332e-05
+"Amenities_Clubhouse, Gym, Garden, Pool",6.411779731590343e-05
+"Amenities_Pool, Gym, Garden, Playground, Clubhouse",1.526062914892461e-05
+"Amenities_Playground, Garden, Clubhouse, Gym, Pool",5.298284788402243e-07
+"Amenities_Clubhouse, Pool, Garden, Gym, Playground",0.0
+"Amenities_Clubhouse, Pool, Gym, Playground, Garden",0.0
+"Amenities_Clubhouse, Garden, Playground, Pool, Gym",0.0
+"Amenities_Clubhouse, Pool, Playground, Garden",0.0
+"Amenities_Pool, Playground",0.0
+"Amenities_Pool, Gym, Playground",0.0
+"Amenities_Pool, Gym, Garden, Playground",0.0
+"Amenities_Clubhouse, Garden, Pool, Gym",0.0
+"Amenities_Playground, Gym, Clubhouse, Pool, Garden",0.0
+"Amenities_Playground, Gym, Garden",0.0
+"Amenities_Playground, Garden, Gym, Pool",0.0
+"Amenities_Pool, Playground, Clubhouse, Garden",0.0
+"Amenities_Playground, Pool, Clubhouse",0.0
+"Amenities_Playground, Pool, Garden, Clubhouse, Gym",0.0
+"Amenities_Playground, Pool, Gym, Clubhouse",0.0
+"Amenities_Playground, Pool, Garden, Gym, Clubhouse",0.0
+"Amenities_Clubhouse, Gym, Playground, Garden, Pool",0.0
+"Amenities_Playground, Garden, Clubhouse, Pool",0.0
+"Amenities_Playground, Gym, Pool",0.0
+"Amenities_Clubhouse, Playground, Pool, Gym, Garden",0.0
+"Amenities_Playground, Clubhouse, Gym, Garden, Pool",0.0
+"Amenities_Playground, Garden, Gym",0.0
+"Amenities_Gym, Playground, Pool, Garden, Clubhouse",0.0
+"Amenities_Clubhouse, Gym",0.0
+"Amenities_Gym, Pool, Clubhouse, Garden",0.0
+"Amenities_Gym, Pool, Garden",0.0
+"Amenities_Gym, Playground, Garden",0.0
+"Amenities_Pool, Clubhouse, Garden, Gym, Playground",0.0
+"Amenities_Pool, Clubhouse, Gym, Playground",0.0
+"Amenities_Pool, Clubhouse, Gym, Playground, Garden",0.0
+"Amenities_Pool, Clubhouse, Playground, Garden, Gym",0.0
+"Amenities_Gym, Clubhouse, Pool, Playground",0.0
+"Amenities_Gym, Garden, Clubhouse",0.0
+"Amenities_Gym, Garden, Clubhouse, Playground, Pool",0.0
+"Amenities_Gym, Garden, Clubhouse, Pool",0.0
+"Amenities_Playground, Garden, Gym, Pool, Clubhouse",0.0
+"Amenities_Gym, Garden, Playground, Clubhouse",0.0
+"Amenities_Garden, Pool, Playground, Clubhouse, Gym",0.0
+Amenities_Gym,0.0
+"Amenities_Garden, Pool, Playground, Gym, Clubhouse",0.0
+"Amenities_Gym, Clubhouse, Playground",0.0
+"Amenities_Gym, Clubhouse, Playground, Garden, Pool",0.0
+"Amenities_Gym, Clubhouse, Playground, Pool",0.0
+"Amenities_Gym, Clubhouse, Garden, Pool",0.0
+"Amenities_Clubhouse, Playground, Pool, Garden",0.0
+"Amenities_Garden, Pool, Clubhouse, Playground, Gym",0.0
+"Amenities_Pool, Garden, Clubhouse, Gym",0.0
+"Amenities_Pool, Garden, Clubhouse, Playground, Gym",0.0
+"Amenities_Pool, Garden, Gym, Playground, Clubhouse",0.0
+"Amenities_Clubhouse, Gym, Pool, Garden, Playground",0.0
+"Amenities_Clubhouse, Gym, Pool, Playground, Garden",0.0
+"Amenities_Clubhouse, Playground, Gym, Pool, Garden",0.0
+"Amenities_Clubhouse, Playground, Garden, Gym",0.0
+"Amenities_Clubhouse, Playground, Gym, Garden",0.0
+"Amenities_Garden, Gym, Pool, Clubhouse",0.0
+"Amenities_Garden, Gym, Playground",0.0
+"Amenities_Garden, Playground, Clubhouse, Gym",0.0
+"Amenities_Garden, Clubhouse, Gym, Pool",0.0
+"Amenities_Garden, Clubhouse, Playground, Pool",0.0
+"Amenities_Garden, Gym, Pool, Clubhouse, Playground",0.0
+"Amenities_Garden, Clubhouse, Playground, Pool, Gym",0.0
+"Amenities_Garden, Clubhouse, Pool, Gym",0.0
+"Amenities_Garden, Clubhouse, Pool, Playground, Gym",0.0
+"Amenities_Garden, Gym, Clubhouse, Playground",0.0
+"Amenities_Clubhouse, Garden, Playground, Gym",0.0
+"Amenities_Clubhouse, Garden, Playground, Gym, Pool",0.0
+"Amenities_Clubhouse, Playground, Pool, Garden, Gym",0.0
+"Amenities_Pool, Playground, Garden, Gym",0.0

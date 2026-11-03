@@ -1,0 +1,24 @@
+artifact_path: file:C:/Users/shrey/Downloads/real estate investment project/mlruns/1/models/m-8c9a761f2ef54beca461eafc6eeeb4d6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types:
+    - numpy.dtype
+mlflow_version: 3.17.2
+model_id: m-8c9a761f2ef54beca461eafc6eeeb4d6
+model_size_bytes: 508013
+model_uuid: m-8c9a761f2ef54beca461eafc6eeeb4d6
+prompts: null
+run_id: 6fe9d44cb12e47829c1bcd1c8093d704
+utc_time_created: '2026-11-03 06:01:40.168427'
